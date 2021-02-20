@@ -1,7 +1,7 @@
-# webpack-first-build-notifier
-This is a [webpack](http://webpack.github.io/) plugin that uses the node-notifier package to display notifications for webpack first build events.
-[![Build Status](https://travis-ci.org/NozomuTsuruta/webpack-first-build-notifier.svg?branch=master)](https://travis-ci.org/NozomuTsuruta/webpack-first-build-notifier)
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+# webpack-first-build-notifier [![Build Status](https://travis-ci.org/NozomuTsuruta/webpack-first-build-notifier.svg?branch=master)](https://travis-ci.org/NozomuTsuruta/webpack-first-build-notifier)[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+This is a [webpack](http://webpack.github.io/) plugin that uses the [node-notifier](https://github.com/mikaelbr/node-notifier#readme) package to display notifications for webpack first build events.
+
+
 
 
 To use, install the webpack-first-build-notifier package `npm install webpack-first-build-notifier --save-dev` and add the plugin to your Webpack configuration file
