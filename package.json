@@ -8,7 +8,8 @@
     "dist"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "build": "tsc"
   },
   "keywords": [
     "webpack",
