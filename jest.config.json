@@ -1,0 +1,8 @@
+{
+  "clearMocks": true,
+  "moduleFileExtensions": ["js", "ts"],
+  "testEnvironment": "node",
+  "transform": {
+    "^.+\\.ts?$": "ts-jest"
+  }
+}

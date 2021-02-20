@@ -4,10 +4,28 @@
   "description": "A plugin that notifies you the first time webpack is built.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "keywords": [
+    "webpack",
+    "notification",
+    "notify",
+    "node-notifier",
+    "alert",
+    "build",
+    "compilation",
+    "compile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NozomuTsuruta/webpack-first-build-notifier.git"
   },
   "author": "Nozomu Tsuruta",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NozomuTsuruta/webpack-first-build-notifier/issues"
+  },
+  "homepage": "https://github.com/NozomuTsuruta/webpack-first-build-notifier",
   "dependencies": {
     "node-notifier": "^9.0.0"
   },
