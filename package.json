@@ -1,0 +1,14 @@
+{
+  "name": "webpack-first-build-notifier",
+  "version": "1.0.0",
+  "description": "A plugin that notifies you the first time webpack is built.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nozomu Tsuruta",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^9.0.0"
+  }
+}
